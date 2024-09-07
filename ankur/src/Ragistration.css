@@ -1,0 +1,15 @@
+body{
+    font-size: 600;
+}
+header{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+}
+.Form{
+    border: 2px solid black;
+    margin: 42px 350px 0px 350px;
+}
+form{
+    text-align: center;
+}
